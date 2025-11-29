@@ -1,1 +1,3 @@
-.
+1) Exploratory Data Analysis - Using a simple business scenario (becoming a CEO and making decisions), We went over some ideas for what a CEO needs to do and how exploratory data analysis can be helpful. Reading data in Python, calculating summary statistics, drawing plots and interpreting results in a business context. 
+2) Forecasting - Using a business scenario (company needs to decide how much new inventory should be ordered), We use Linear Regression as our main forecasting tool. We understood the programming side of it, statistical side of it and the math side of it. After going through all the aspects of the problem, we arrive at a model that we think is the best to forecast next month's consumer demand. Considering a business problem and using programming, mathematical theory and common sense to find a data-driven solution is typical of data science.
+3) Group Comparisons - 
